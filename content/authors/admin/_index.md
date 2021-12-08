@@ -73,4 +73,4 @@ highlight_name: true
 
 Aya Musleh is a recent graduate of the University of Southern California's Neuroimaging & Informatics MSc program.  Her research interests lie at the intersection of neurodevelopment, neurodegeneration, neuroimaging, and computational neuroscience. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MuslehI.Aya_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
