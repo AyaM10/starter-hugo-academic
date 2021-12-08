@@ -6,7 +6,7 @@ title: Aya Musleh
 superuser: true
 
 # Role/position/tagline
-#role: Professor of Artificial Intelligence
+role: Neuroimaging & Informatics | Data Enthusiast | Neurotechnology | Science Communication
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -71,6 +71,6 @@ email: "amusleh1097@gmail.com"
 highlight_name: true
 ---
 
-Aya Musleh is a recent graduate of the University of Southern California's Neuroimaging & Informatics MSc program.  Her research interests lie at the intersection of neurodevelopment, neurodegeneration, neuroimaging, and computational neuroscience. 
+Welcome! My name is Aya Musleh and I am a recent graduate of the University of Southern California's Neuroimaging & Informatics MSc program.  My research interests lie at the intersection of neurodevelopment, neurodegeneration, neuroimaging, and computational neuroscience. Please feel free to contact me! 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MuslehI.Aya_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
